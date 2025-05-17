@@ -71,8 +71,14 @@ Using Natural Language Processing (NLP), sentiment analysis, and predictive mode
 ## 🤝 Team
  **Daniela Aguirre**, Anuna Neyoti, Prisha Chawla, Shao Tung Hsu, Xiaohui Lu, Xiaoyang Cao
 
+---
+
+## 🗂️ Project Assets
+
+📄 [View Project Presentation (Canva)](https://www.canva.com/design/DAGhTU1YF5A/jAA-NFkw7ohK2MsOzfdVIA/edit)
 
 ---
+
 
 ## 📫 Connect with me
 

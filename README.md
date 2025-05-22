@@ -83,4 +83,4 @@ Using Natural Language Processing (NLP), sentiment analysis, and predictive mode
 ## 📫 Connect with me
 
 📧 dcaguirr@uci.edu  
-🔗 [LinkedIn](www.linkedin.com/in/danielaaguirres)
+🔗 [LinkedIn](https://www.linkedin.com/in/danielaaguirres)
